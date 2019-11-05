@@ -1,0 +1,7 @@
+# initialize repo
+mkdir git-playground
+cd git-playground
+git init
+git config user.name pdabacus
+git config user.email dayalpavan@gmail.com
+
